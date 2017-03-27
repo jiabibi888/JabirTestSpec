@@ -1,0 +1,2 @@
+# JabirTestSpec
+JabirTestSpec for CocoaPods
