@@ -1,0 +1,22 @@
+{
+  "name": "JabirDemoSpec",
+  "version": "0.1.0",
+  "summary": "Test of JabirDemoSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jiabibi888/JabirDemoSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiabibi888": "zhangjiabi9149@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jiabibi888/JabirDemoSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JabirDemoSpec/Classes/**/*"
+}
